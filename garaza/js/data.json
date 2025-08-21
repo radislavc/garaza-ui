@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Garaža \"Baba Višnjina\"",
+    "location": "https://www.google.com/maps/place/44.801441,20.474145",
+    "freePlaces": 199,
+    "garage": {
+      "id": 1,
+      "name": "Garaža \"Baba Višnjina\"",
+      "price": "150 RSD/sat",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 351 | <i class=\"fab fa-accessible-icon\"></i> 20<br>",
+      "capacity": 371,
+      "images": [
+        "img/baba-visnjina-3.jpg",
+        "img/baba-visnjina-3.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Botanička bašta\"",
+    "location": "https://www.google.com/maps/place/44.816025,20.474593",
+    "freePlaces": 69,
+    "garage": {
+      "id": 2,
+      "name": "Garaža \"Botanička bašta\"",
+      "price": "60 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 245 | <i class=\"fab fa-accessible-icon\"></i> 1",
+      "capacity": 246,
+      "images": [
+        "img/botanicka-basta-1.jpg",
+        "img/botanicka-basta-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Dr Aleksandra Kostića\"",
+    "location": "https://www.google.com/maps/place/44.804726,20.454868",
+    "freePlaces": 34,
+    "garage": {
+      "id": 3,
+      "name": "Garaža \"Dr Aleksandra Kostića\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 59 | <i class=\"fab fa-accessible-icon\"></i> 1",
+      "capacity": 60,
+      "images": [
+        "img/dr-aleksandra-kostica-1.jpg",
+        "img/dr-aleksandra-kostica-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Masarikova\"",
+    "location": "https://www.google.com/maps/place/44.806871,20.463281",
+    "freePlaces": 364,
+    "garage": {
+      "id": 4,
+      "name": "Garaža \"Masarikova\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 457 | <i class=\"fab fa-accessible-icon\"></i> 1 | <i class=\"fas fa-baby-carriage\"></i> 2",
+      "capacity": 460,
+      "images": [
+        "img/masarikova-1.jpg",
+        "img/masarikova-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Obilićev venac\"",
+    "location": "https://www.google.com/maps/place/44.815755,20.457341",
+    "freePlaces": 252,
+    "garage": {
+      "id": 5,
+      "name": "Garaža \"Obilićev venac\"",
+      "price": "120 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 805 | <i class=\"fab fa-accessible-icon\"></i> 28 | <i class=\"fas fa-baby-carriage\"></i> 14 | <i class=\"fas fa-charging-station\"></i> 6",
+      "capacity": 853,
+      "images": [
+        "img/obilicev-venac-1.jpg",
+        "img/obilicev-venac-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Pinki \"",
+    "location": "https://www.google.com/maps/place/44.8409227,20.411643",
+    "freePlaces": 124,
+    "garage": {
+      "id": 27,
+      "name": "Garaža \"Pinki \"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 269 | <i class=\"fab fa-accessible-icon\"></i> 30",
+      "capacity": 371,
+      "images": [
+        "img/nbg-zeleznicka-stanica-1.jpg",
+        "img/pinki.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Pionirski park\"",
+    "location": "https://www.google.com/maps/place/44.811354,20.463101",
+    "freePlaces": 48,
+    "garage": {
+      "id": 6,
+      "name": "Garaža \"Pionirski park\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 459 | <i class=\"fab fa-accessible-icon\"></i> 21 | <i class=\"fas fa-charging-station\"></i> 2",
+      "capacity": 482,
+      "images": [
+        "img/pionirski-park-1.jpg",
+        "img/pionirski-park-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Vukov spomenik\"",
+    "location": "https://www.google.com/maps/place/44.805372,20.478827",
+    "freePlaces": 25,
+    "garage": {
+      "id": 7,
+      "name": "Garaža \"Vukov spomenik\"",
+      "price": "80 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 119 | <i class=\"fab fa-accessible-icon\"></i> 1 ",
+      "capacity": 120,
+      "images": [
+        "img/vukov-spomenik-1.jpg",
+        "img/vukov-spomenik-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Garaža \"Zeleni venac\"",
+    "location": "https://www.google.com/maps/place/44.812041,20.4592279",
+    "freePlaces": 160,
+    "garage": {
+      "id": 8,
+      "name": "Garaža \"Zeleni venac\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 303 | <i class=\"fab fa-accessible-icon\"></i> 1 | <i class=\"fas fa-charging-station\"></i> 2",
+      "capacity": 306,
+      "images": [
+        "https://www.parking-servis.co.rs/storage/7042/garaza-baba-visnjina-2-galerija.jpg",
+        "https://www.parking-servis.co.rs/storage/7041/garaza-baba-visnjina-1-galerija.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Ada\"",
+    "location": "https://www.google.com/maps/place/44.7867572,20.413043",
+    "freePlaces": 874,
+    "garage": {
+      "id": 9,
+      "name": "Parkiralište \"Ada\"",
+      "price": "150 RSD dnevna karta",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 1211 | <i class=\"fab fa-accessible-icon\"></i> 5 | <i class=\"fas fa-charging-station\"></i>  6",
+      "capacity": 1222,
+      "images": [
+        "img/ada-ciganlija-1.jpg",
+        "img/ada-ciganlija-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Belvil\"",
+    "location": "https://www.google.com/maps/place/44.805451,20.412065",
+    "freePlaces": 408,
+    "garage": {
+      "id": 10,
+      "name": "Parkiralište \"Belvil\"",
+      "price": "70 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 417 | <i class=\"fab fa-accessible-icon\"></i> 21",
+      "capacity": 438,
+      "images": [
+        "img/belvil-1.jpg",
+        "img/belvil-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Bežanijska kosa\"",
+    "location": "https://www.google.com/maps/place/44.8160443,20.375018",
+    "freePlaces": 70,
+    "garage": {
+      "id": 28,
+      "name": "Parkiralište \"Bežanijska kosa\"",
+      "price": "50 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 269 | <i class=\"fab fa-accessible-icon\"></i> 30",
+      "capacity": 371,
+      "images": [
+        "img/nbg-zeleznicka-stanica-1.jpg",
+        "img/bezanijska-kosa.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Blok 43\"",
+    "location": "https://www.google.com/maps/place/44.826999,20.360618",
+    "freePlaces": 160,
+    "garage": {
+      "id": 11,
+      "name": "Parkiralište \"Blok 43\"",
+      "price": "70 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "",
+      "capacity": 371,
+      "images": [
+        "https://www.parking-servis.co.rs/storage/7042/garaza-baba-visnjina-2-galerija.jpg",
+        "https://www.parking-servis.co.rs/storage/7041/garaza-baba-visnjina-1-galerija.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Čukarica\"",
+    "location": "https://www.google.com/maps/place/44.782623,20.415853",
+    "freePlaces": 3,
+    "garage": {
+      "id": 12,
+      "name": "Parkiralište \"Čukarica\"",
+      "price": "70 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 76 | <i class=\"fab fa-accessible-icon\"></i> 1",
+      "capacity": 78,
+      "images": [
+        "img/cukarica-1.jpg",
+        "img/cukarica-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Cvetkova pijaca\"",
+    "location": "https://www.google.com/maps/place/44.79208,20.507312",
+    "freePlaces": 36,
+    "garage": {
+      "id": 13,
+      "name": "Parkiralište \"Cvetkova pijaca\"",
+      "price": "60 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 81 | <i class=\"fab fa-accessible-icon\"></i> 1 ",
+      "capacity": 82,
+      "images": [
+        "img/cvetkova-pijaca-1.jpg",
+        "img/cvetkova-pijaca-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Donji grad\"",
+    "location": "https://www.google.com/maps/place/44.8191749,20.4488096",
+    "freePlaces": 293,
+    "garage": {
+      "id": 14,
+      "name": "Parkiralište \"Donji grad\"",
+      "price": "120 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 387 | <i class=\"fab fa-accessible-icon\"></i> 6 | <i class=\"fas fa-charging-station\"></i> 4",
+      "capacity": 397,
+      "images": [
+        "img/donji-grad-1.jpg",
+        "img/donji-grad-1.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Kalemegdan\"",
+    "location": "https://www.google.com/maps/place/44.824869,20.455307",
+    "freePlaces": 88,
+    "garage": {
+      "id": 15,
+      "name": "Parkiralište \"Kalemegdan\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 113 | <i class=\"fab fa-accessible-icon\"></i> 2",
+      "capacity": 115,
+      "images": [
+        "img/kalemegdan-1.jpg",
+        "img/kalemegdan-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Kamenička\"",
+    "location": "https://www.google.com/maps/place/44.811306,20.454778",
+    "freePlaces": 58,
+    "garage": {
+      "id": 16,
+      "name": "Parkiralište \"Kamenička\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 91 | <i class=\"fab fa-accessible-icon\"></i> 1 ",
+      "capacity": 92,
+      "images": [
+        "img/kamenicka-1.jpg",
+        "img/kamenicka-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Kapetanija\"",
+    "location": "https://www.google.com/maps/place/44.847066,20.414467",
+    "freePlaces": 37,
+    "garage": {
+      "id": 17,
+      "name": "Parkiralište \"Kapetanija\"",
+      "price": "120 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 65 | <i class=\"fab fa-accessible-icon\"></i> 1",
+      "capacity": 66,
+      "images": [
+        "img/kapetanija-1.jpg",
+        "img/kapetanija-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Ljermontova \"",
+    "location": "https://www.google.com/maps/place/44.782967053751,20.490112099311",
+    "freePlaces": 64,
+    "garage": {
+      "id": 29,
+      "name": "Parkiralište \"Ljermontova \"",
+      "price": "50 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 269 | <i class=\"fab fa-accessible-icon\"></i> 30",
+      "capacity": 371,
+      "images": [
+        "img/nbg-zeleznicka-stanica-1.jpg",
+        "img/ljermontova.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Međunarodni carinski terminal\"",
+    "location": "https://www.google.com/maps/place/44.828269,20.359824",
+    "freePlaces": 192,
+    "garage": {
+      "id": 18,
+      "name": "Parkiralište \"Međunarodni carinski terminal\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 179 | <i class=\"fab fa-accessible-icon\"></i> 2 | <i class=\"fas fa-truck-loading\"></i> 3",
+      "capacity": 184,
+      "images": [
+        "img/mct-1.jpg",
+        "img/mct-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Milan Gale Muškatirović\"",
+    "location": "https://www.google.com/maps/place/44.829521,20.454848",
+    "freePlaces": 247,
+    "garage": {
+      "id": 19,
+      "name": "Parkiralište \"Milan Gale Muškatirović\"",
+      "price": "60 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 302 | <i class=\"fab fa-accessible-icon\"></i> 1 | <i class=\"fas fa-charging-station\"></i> 1",
+      "capacity": 304,
+      "images": [
+        "img/m-g-m-1.jpg",
+        "img/m-g-m-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Opština NBGD\"",
+    "location": "https://www.google.com/maps/place/44.822591,20.414157",
+    "freePlaces": 116,
+    "garage": {
+      "id": 20,
+      "name": "Parkiralište \"Opština NBGD\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 122 | <i class=\"fab fa-accessible-icon\"></i> 1",
+      "capacity": 123,
+      "images": [
+        "img/nbg-1.jpg",
+        "img/nbg-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Politika\"",
+    "location": "https://www.google.com/maps/place/44.815752,20.46465",
+    "freePlaces": 0,
+    "garage": {
+      "id": 21,
+      "name": "Parkiralište \"Politika\"",
+      "price": "120 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 55 | <i class=\"fab fa-accessible-icon\"></i> 1 ",
+      "capacity": 56,
+      "images": [
+        "img/politika-1.jpg",
+        "img/politika-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Slavija\"",
+    "location": "https://www.google.com/maps/place/44.802339,20.468049",
+    "freePlaces": 71,
+    "garage": {
+      "id": 22,
+      "name": "Parkiralište \"Slavija\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 87 | <i class=\"fab fa-accessible-icon\"></i> 2 ",
+      "capacity": 198,
+      "images": [
+        "img/Slavija-1.jpg",
+        "img/Slavija-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Vidin kapija \"",
+    "location": "https://www.google.com/maps/place/44.82735294,20.45250555",
+    "freePlaces": 56,
+    "garage": {
+      "id": 23,
+      "name": "Parkiralište \"Vidin kapija \"",
+      "price": "150 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 71 | <i class=\"fab fa-accessible-icon\"></i> 4",
+      "capacity": 75,
+      "images": [
+        "img/Vidin-kapija-1.jpg",
+        "img/Vidin-kapija-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Viška\"",
+    "location": "https://www.google.com/maps/place/44.800917,20.475278",
+    "freePlaces": 4,
+    "garage": {
+      "id": 24,
+      "name": "Parkiralište \"Viška\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 48 | <i class=\"fab fa-accessible-icon\"></i> 1",
+      "capacity": 49,
+      "images": [
+        "img/viska-1.jpg",
+        "img/viska-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"VMA\"",
+    "location": "https://www.google.com/maps/place/44.763723,20.470734",
+    "freePlaces": 558,
+    "garage": {
+      "id": 25,
+      "name": "Parkiralište \"VMA\"",
+      "price": "45 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 574 | <i class=\"fab fa-accessible-icon\"></i> 20 | <i class=\"fas fa-charging-station\"></i> 2",
+      "capacity": 596,
+      "images": [
+        "img/vma-1.jpg",
+        "img/vma-2.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Parkiralište \"Železnička stanica\"",
+    "location": "https://www.google.com/maps/place/44.80847905584,20.41517161546",
+    "freePlaces": 253,
+    "garage": {
+      "id": 26,
+      "name": "Parkiralište \"Železnička stanica\"",
+      "price": "100 RSD/h",
+      "freeTime": "0",
+      "workingTime": "0-24h",
+      "details": "<i class=\"fas fa-car\"></i> 269 | <i class=\"fab fa-accessible-icon\"></i> 30",
+      "capacity": 371,
+      "images": [
+        "img/nbg-zeleznicka-stanica-1.jpg",
+        "img/nbg-zeleznicka-stanica-2.jpg"
+      ]
+    }
+  }
+]

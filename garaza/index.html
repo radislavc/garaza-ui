@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garaža</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="brand">
+                <h2>Garaža</h2>
+            </div>
+            <div class="nav-links" id="navMenu">
+                <a href="" class="nav-link">Početna</a>
+                <a href="" class="nav-link">O nama</a>
+                <a href="" class="nav-link">Kontakt</a>
+            </div>
+            <a href="" class="cta">Pronađi garažu</a>
+
+             <div class="hamburger" id="hamburger">
+                ☰
+             </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container flex">
+            <div class="col">
+                <h1>Pronađi <span>slobodno</span> parking mesto u Beogradu</h1>
+                <p class="p-hero">Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
+                <input type="text" name="search" placeholder="Unesite lokaciju..." class="search-input">
+            </div>   
+            <div class="col2">
+                <img src="images/hero-img.jpg" alt="" srcset="" style="width: 550px;">
+                <div class="overlay"></div>
+                <img src="images/pin.svg" alt="" class="pin">
+                <img src="images/pin.svg" alt="" class="pin2">
+            </div>
+        </div>
+    </section>
+
+    <section class="content-section">
+       <div class="container padding">
+        <h2 class="subtitle">Dostupne garaže</h2>
+        <p class="text-block">#Prikaz dostupnih garaza</p>
+        <div class="all-cards-wrapper">
+           
+        </div>
+    
+      
+      
+        
+       </div> 
+    </section>
+    
+    <section class="footer">
+        <div class="footer-text">© 2025 GARAZA.live. All rights reserved.</div>
+    </section>
+
+    <script src="js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+
+   const ctx = document.querySelectorAll('#myChart');
+    ctx.forEach(element => {
+        new Chart(element, {
+            type: 'bar',
+            data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+                label: '# of Votes',
+                data: [12, 19, 3, 5, 2, 3],
+                borderWidth: 1
+            }]
+            },
+            options: {
+            scales: {
+                y: {
+                beginAtZero: true
+                }
+            }
+            }
+        });
+   });
+
+  
+    </script>
+</body>
+</html>
